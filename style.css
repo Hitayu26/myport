@@ -5,13 +5,13 @@
 }
 
 :root {
-    --primary-color: #7C3AED;    /* Vibrant purple */
-    --secondary-color: #6D28D9;  /* Darker purple */
+    --primary-color: #a87207;    /* Vibrant Orange */
+    --secondary-color: #0bec29;  /* Darker purple */
     --accent-color: #white;     
     --text-color: #FFFFFF;       /* White text */
     --text-secondary: rgba(255, 255, 255, 0.7);  /* Dimmed white */
-    --background: #0F172A;       /* Dark blue background */
-    --nav-bg: rgba(15, 23, 42, 0.8);  /* Semi-transparent dark blue */
+    --background: #ec8c06;       /* Dark blue background */
+    --nav-bg: rgba(4, 7, 22, 0.721);  /* Semi-transparent dark blue */
     --card-bg: rgba(255, 255, 255, 0.1);  /* Transparent white */
     --hover-bg: rgba(255, 255, 255, 0.15);  /* Slightly lighter on hover */
 }
@@ -171,7 +171,7 @@ section h2::after {
 }
 .about-content h2 {
     font-size: 3rem;
-    background: linear-gradient(to right, #7C3AED, #9F7AEA);
+    background: linear-gradient(to right, #07d8db, #0693ea);
     -webkit-background-clip: text;
     background-clip: text;
     color: transparent;
